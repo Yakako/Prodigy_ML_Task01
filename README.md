@@ -50,12 +50,16 @@ The model learns the contribution of each feature to house price:
 
 ---
 ## License
+
 This project is open-source and free to use under the MIT License.
+
 ---
 ## Author
+
 PRUONH KIMLIYA
 Email: kimliyapruonh@gmail.com
 Location: Phnom Penh, Cambodia
 ---
-** References
+## References
+
 Kaggle: House Prices - Advanced Regression Techniques
