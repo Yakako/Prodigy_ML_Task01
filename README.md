@@ -55,10 +55,9 @@ This project is open-source and free to use under the MIT License.
 
 ---
 ## Author
+- PRUONH KIMLIYA
+- Email: kimliyapruonh@gmail.com
 
-PRUONH KIMLIYA
-Email: kimliyapruonh@gmail.com
-Location: Phnom Penh, Cambodia
 ---
 ## References
 
