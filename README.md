@@ -57,7 +57,8 @@ This project is open-source and free to use under the MIT License.
 ## Author
 - PRUONH KIMLIYA
 - Email: kimliyapruonh@gmail.com
-
+- Data Science Intern
+- GitHub: https://github.com/Yakako
 ---
 ## References
 
