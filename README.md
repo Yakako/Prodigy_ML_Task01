@@ -49,12 +49,13 @@ The model learns the contribution of each feature to house price:
 - Negative coefficient → Increase in feature decreases predicted price
 
 ---
-** License
+## License
 This project is open-source and free to use under the MIT License.
-** Author
+---
+## Author
 PRUONH KIMLIYA
 Email: kimliyapruonh@gmail.com
 Location: Phnom Penh, Cambodia
-
+---
 ** References
 Kaggle: House Prices - Advanced Regression Techniques
